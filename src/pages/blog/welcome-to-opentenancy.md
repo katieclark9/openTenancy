@@ -16,14 +16,11 @@ And we're **LIVE**!
 Welcome to openTenancy. We made this with two goals in mind: 
 
 1. To make tenancy rights simple to understand through an easy questionnaire. 
-
 2. To make our product accessible to all by making it open source. 
 
 We're inviting you to have a look at our MVP, right now we're focusing just on repairs - with the aim to expanding once we get some feedback. 
 
-Have a look, let as know what you think, and we hope that this is able to help at least one person. 
-
-
+Have a look and let us know what you think. We're excited to see openTenancy grow. 
 
 Your founders, 
 
